@@ -23,18 +23,6 @@ Soy Polo_1245, soy un estudiante de **España** y me gusta programar en mi tiemp
   </p>
   </div>
   
-   <br />
-   
-   ## Tecnologías 🍺
-
-![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=JavaScript%20☕&style=for-the-badge&color=F7DF1E&logo=JavaScript)
-![Nodejs](https://img.shields.io/static/v1?label=Nodejs&message=node%20src%2Fgátomo.js%20😸&color=68a063&style=for-the-badge&logo=Node.js)
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&message=github.com%2Fgatomo-oficial%20🐱🐙&style=for-the-badge&color=fff&logo=github)
-![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML%20es%20un%20lenguaje%3F%20❓❔&style=for-the-badge&color=F16529&logo=html5) 
-![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS🎨&style=for-the-badge&color=2965f1&logo=css3)
-
-<br />
 
 ## GitHub Stats ✨
 
