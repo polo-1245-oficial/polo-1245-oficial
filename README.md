@@ -6,7 +6,7 @@ Soy Polo_1245, soy un estudiante de **España** y me gusta programar en mi tiemp
 <br />
 
    ## Redes sociales 📚
-   [Clic aquí](https://polo1245.es)
+   [Clic aquí](https://polo1245.com)
    <br />
 
   ## Contáctame 📬
