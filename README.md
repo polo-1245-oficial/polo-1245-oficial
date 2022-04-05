@@ -22,7 +22,7 @@ Soy Polo_1245, soy un estudiante de **España** y me gusta programar en mi tiemp
   
 ## Discord 💬
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725316907187568701)](https://discord.com/users/725316907187568701)
+
     <a href="https://discord.gg/9SY6WSUSja"><img src="https://discord.com/api/guilds/820257786906411028/embed.png?style=banner3" alt="Discord" /></a>
 
 ## GitHub Stats ✨
