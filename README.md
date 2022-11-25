@@ -29,9 +29,6 @@ Soy Polo_1245, soy un estudiante de **España** y me gusta programar en mi tiemp
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=polo-1245-oficial&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&hide_title=true&count_private=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=polo-1245-oficial&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&count_private=true&extra=normal-project/Normal;normal-project/Normal" />
-    </td>
   </tr>
 </table>
 
