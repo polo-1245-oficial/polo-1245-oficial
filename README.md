@@ -25,7 +25,7 @@ Soy Polo_1245, soy un estudiante de **España** y me gusta programar en mi tiemp
 ## GitHub Stats ✨
 
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=polo_1245ofi&show_icons=true&theme=transparent)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=polo-1245-oficial&show_icons=true&theme=transparent)
 
 
 
