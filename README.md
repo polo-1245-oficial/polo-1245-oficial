@@ -1,7 +1,7 @@
 # Hola 👋
-soy camionero virtual, programador y gilipollas
+soy camionero virtual, programador y gilipollas 
 
-<a href="https://tux.software">web, a veces funciona a veces no</a> en algún momento la pasaré a next
+<a href="https://tux.software">web</a> ahora está en next como dios manda
    <br />
 
 
