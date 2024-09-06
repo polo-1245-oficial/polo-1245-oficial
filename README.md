@@ -1,10 +1,5 @@
 # Hola 👋
-soy camionero virtual, programador y gilipollas 
-
-<a href="https://tux.software">web</a> ahora está en next como dios manda
-   <br />
-
-
+backend dev && camionero virtual 
 
 ## GitHub Stats ✨
 
